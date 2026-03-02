@@ -102,7 +102,6 @@ The dashboard directly maps AQI categories to health advisories:
 
 # 📸 Dashboard Screenshots
 
-> *(Upload your dashboard screenshots below this section)*
 
 ## 🖥️ Main Dashboard View
 <img width="1919" height="986" alt="Screenshot 2026-02-28 161409" src="https://github.com/user-attachments/assets/c6e5742d-8c8f-456e-a053-d196c408d630" />
